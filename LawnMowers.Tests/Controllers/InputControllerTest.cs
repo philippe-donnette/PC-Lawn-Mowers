@@ -1,12 +1,10 @@
-﻿using Autofac.Extras.Moq;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Moq;
 using PC.LawnMowers.Controllers;
 using PC.LawnMowers.Model;
 using PC.LawnMowers.Settings;
 using PC.LawnMowers.Validators;
 using System;
-using System.Collections.Generic;
 using System.Linq;
 
 namespace LawnMowers.Tests.Controllers
